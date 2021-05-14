@@ -1,2 +1,2 @@
-# ML-Proj
+# Movie Recommender
 Machine Learning Projects
